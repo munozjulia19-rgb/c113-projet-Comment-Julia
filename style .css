@@ -1,5 +1,4 @@
 
-
 :root{
     --couleur-titre:#226347;
     --police:Georgia,serif;
@@ -13,7 +12,8 @@ body{
 
 
 }
-h1{
-    color:var(--couleur-titre);
-    font-size:44px;
-    text-align:center;
+h1 {
+    color: var(--couleur-titre);
+    font-size: 44px;
+    text-align: center;
+}
